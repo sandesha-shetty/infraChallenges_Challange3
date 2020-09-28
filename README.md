@@ -11,3 +11,6 @@ Given a system (a laptop or a desktop you are using) create the following JSON d
     psutil and cpuinfo module must be installed
     python -m pip install -U psutil (install psutil globally)
     python -m pip install -U py-cpuinfo (install cpuinfo globally) 
+
+# Execution
+    python sysInfo.py
