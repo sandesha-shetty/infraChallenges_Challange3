@@ -1,0 +1,2 @@
+# infraChallenges_Challange3
+Given a system (a laptop or a desktop you are using) create the following JSON data structure containing the information from your system. The data to be filled into each field should be retrieved and inserted into JSON programmatically, i.e. using a script or a program, but not manually. Your data will be different than what is shown below as an example, but should use the same basic structure.
